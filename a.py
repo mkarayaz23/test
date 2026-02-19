@@ -1,1 +1,1 @@
-print(" Yaşar bana yardım etti")
+print(" Yaşar bana yardım etti")for i in range(5):    print("Öğrendim amk")
