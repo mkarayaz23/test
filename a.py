@@ -1,0 +1,1 @@
+print(" Yaşar bana yardım etti")
